@@ -7,6 +7,11 @@
 
 :bookmark: Documentation : [https://orange-cyberdefense.github.io/GOAD/](https://orange-cyberdefense.github.io/GOAD/)
 
+## Snaplabs Edition (by lefayjey)
+
+Latest template is available here:
+[GOADv3 - SnapLabs v1.6 - 08.2025](https://dashboard.snaplabs.io/templates/5bce7227-a73c-4961-ad66-34502888673e)
+
 ## Description
 GOAD is a pentest active directory LAB project.
 The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.
